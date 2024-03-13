@@ -1,4 +1,8 @@
-# canvas_README
+# catDB README (experimental)
+
+Using [canvasjson](https://obsidian.md/canvas) to communicate our data system. The idea is that each node will correspond to different bits in our READMEs spread across our directories. In the near future, we should be able to deploy that easily on a static website using [jsoncanvas](https://jsoncanvas.org/) as independent tool.
+
+If you want to try it out, first install [obsidian](https://obsidian.md/download) then clone this repo. Open the cloned directory as new vault.
 
 #### Example BBA
 
