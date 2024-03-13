@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "299c9c4555652fed",
+    "type": "split",
+    "children": [
+      {
+        "id": "69cce4b1f66a6c58",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82cfdb08c477a529",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "strategy3.canvas",
+                "viewState": {
+                  "x": 685.7456707131123,
+                  "y": 202.40340660900034,
+                  "zoom": -1.0134114583333336
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b403414a40f0dde5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ad9112eb9e1ef1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed8250253093093d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10cb12b09bb28abf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d0018cf7416976e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "23d4f78215e83f97",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8610b2086ae0e16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd23afb81174a738",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "strategy3.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d915aaa833c512e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "strategy3.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e782431a45f3cee5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2bc2c16f9582060c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "strategy3.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "82cfdb08c477a529",
+  "lastOpenFiles": [
+    "README.md",
+    "strategy2.canvas",
+    "strategy3.canvas",
+    "bboxing_task.png.sb-98ddeda0-BNToKB",
+    "bboxing_task.png",
+    "Welcome.md",
+    "Screenshot 2024-03-13 at 08-06-01 Label Studio.png"
+  ]
+}
